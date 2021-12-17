@@ -8,7 +8,7 @@ There are multiple factors to influence the success of crowdfunding campaigns bu
 ![Theater Outcomes by Launch Date](Theater_Outcomes_vs_Launch.png)
 ![Outcomes Based on Goals](Outcomes_vs_Goals.png)
 ##### Challenges
-
+Personal challenges I experienced during the analysis included comprehension issues of specific formulas such as “COUNTIFS”. I had two thirds of the necessary function completed but was struggling with how to articulate the “goals” part based on the provided parameters. This challenge was overcome by asking for assistance from classmates and utilizing their advice. One classmate took time to provide gentle guidance in how to complete my formula so that I could figure it out and make it work properly and I could complete the deliverable. Other issues experienced involve the Outcomes Based on Goals line graph displaying too much excess information from the entirety of the data field and not specifically just the percentages of successful, failed, and canceled plays. After playing around with Excel for a bit I eventually found out how to make the graph reflect the necessary information. I have noticed that figuring out how to edit graphs on a Mac differs a lot from on a PC, so there is a learning curve there when watching demonstrations in class versus doing it on my own.
 ## Results
 ##### Theater Outcomes by Launch Date
 ##### Outcomes Based on Goals
