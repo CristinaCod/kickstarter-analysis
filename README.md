@@ -8,7 +8,7 @@ In doing so, I personally got to develop and hone in my Excel skills through use
 
 
 ![Theater Outcomes by Launch Date](Theater_Outcomes_vs_Launch.png)
-
+![Outcomes Based on Goals](Outcomes_vs_Goals.png)
 ##### Challenges
 
 ## Results
