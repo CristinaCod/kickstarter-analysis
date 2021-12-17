@@ -6,6 +6,9 @@ In doing so, I personally got to develop and hone in my Excel skills through use
 ## Analysis and Challenges
 ##### Analysis of Findings
 
+
+![Theater Outcomes by Launch Date](Theater_Outcomes_vs_Launch.png)
+
 ##### Challenges
 
 ## Results
